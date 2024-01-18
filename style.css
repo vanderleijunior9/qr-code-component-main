@@ -4,11 +4,60 @@
     font-size: 20px;
     text-align: center;
 }
-p {
+h1 {
+    font-family: 'Outfit', sans-serif;
+    font-weight: 700;
+    font-size: 28px;
+    display: block;
+    width: 2.4in;
     text-align: center;
+    margin: auto;
+}
+
+p {
+    font-family: 'Outfit', sans-serif;
+    font-weight: 400;
+    font-size: 13px;
+    display: block;
+    color: gray;
+    width: 2.4in;
+    text-align: center;
+    margin: auto;
+    padding-top: 10px;
+    padding-bottom: 30px;
+}
+body {
+    background-color: #e1eeff;
 }
 
 .attribution {
     text-align: center;
+}
+
+
+.whitebox {
+    background-color: white;
+    padding: 1px;
+    display: block;
+    margin: 2in auto;
+    width: 2.8in;
+    justify-self: center;
+    border-radius: 12px;
+}
+
+
+.imgcode {
+    height: 2.5in;
+    justify-self: center;
+    display: flex;
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: .13in;
+    align-self: center;
+    border-radius: 12px;
     
+    
+}
+.attribution{
+    margin-top: 4in;
 }
